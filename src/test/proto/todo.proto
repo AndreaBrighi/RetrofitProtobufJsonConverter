@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package tutorial;
+
+message Todo {
+    int64 id = 1;
+    string todo = 2;
+    bool completed = 3;
+    int64 userId = 4;
+};
+
+message TodoList {
+    repeated Todo todos = 1;
+};
