@@ -25,7 +25,6 @@ class ProjectInfo {
 
     val websiteUrl = "https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter"
     val vcsUrl = "https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter.git"
-    // val scm = "scm:git:$websiteUrl.git"
     val tags = listOf("Retrofit", "Json", "Protobuf")
 }
 
@@ -152,9 +151,7 @@ publishing {
                 pom {
                     name.set(info.fullName)
                     description.set(info.projectDetails)
-                    url.set(
-                        info.websiteUrl
-                    )
+                    url.set(info.websiteUrl)
                     licenses {
                         license {
                             name.set("MIT")
@@ -166,12 +163,8 @@ publishing {
                         }
                     }
                     scm {
-                        url.set(
-                            info.vcsUrl
-                        )
-                        connection.set(
-                            info.vcsUrl
-                        )
+                        url.set(info.vcsUrl)
+                        connection.set(info.vcsUrl)
                     }
                 }
             }

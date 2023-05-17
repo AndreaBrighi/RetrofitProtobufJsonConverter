@@ -2,8 +2,8 @@ import retrofit2.Call
 import retrofit2.http.Body
 import retrofit2.http.GET
 import retrofit2.http.POST
-import tutorial.TodoOuterClass.TodoList
 import tutorial.TodoOuterClass.Todo
+import tutorial.TodoOuterClass.TodoList
 
 interface TestApi {
 
