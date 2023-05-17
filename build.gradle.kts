@@ -61,7 +61,7 @@ dependencies {
     implementation(kotlin("reflect"))
     testImplementation(gradleTestKit())
     testImplementation(libs.bundles.kotlin.testing)
-    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1")
 }
 
 configurations.all {
@@ -103,14 +103,14 @@ sourceSets {
 protobuf {
     protoc {
         // The artifact spec for the Protobuf Compiler
-        artifact = "com.google.protobuf:protoc:3.19.4"
+        artifact = "com.google.protobuf:protoc:3.23.0"
     }
     plugins {
         // Optional: an artifact spec for a protoc plugin, with "grpc" as
         // the identifier, which can be referred to in the "plugins"
         // container of the "generateProtoTasks" closure.
         id("grpc") {
-            artifact = "io.grpc:protoc-gen-grpc-java:1.45.1"
+            artifact = "io.grpc:protoc-gen-grpc-java:1.55.1"
         }
     }
 
