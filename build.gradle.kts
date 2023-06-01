@@ -102,7 +102,7 @@ sourceSets {
 protobuf {
     protoc {
         // The artifact spec for the Protobuf Compiler
-        artifact = "com.google.protobuf:protoc:3.23.0"
+        artifact = "com.google.protobuf:protoc:3.23.2"
     }
     plugins {
         // Optional: an artifact spec for a protoc plugin, with "grpc" as
