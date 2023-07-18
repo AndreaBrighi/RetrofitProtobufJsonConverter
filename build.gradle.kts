@@ -22,7 +22,6 @@ class ProjectInfo {
     val projectId = "$group.$name"
     val fullName = "RetrofitProtobufJsonConverter"
     val projectDetails = "Factory for retrofit that can convert a Json request into a Protobuf class"
-
     val websiteUrl = "https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter"
     val vcsUrl = "https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter.git"
     val tags = listOf("Retrofit", "Json", "Protobuf")
@@ -48,6 +47,7 @@ repositories {
     mavenCentral()
     gradlePluginPortal()
 }
+
 multiJvm {
     maximumSupportedJvmVersion.set(latestJavaSupportedByGradle)
 }
@@ -86,15 +86,6 @@ tasks {
         kotlinOptions {
             allWarningsAsErrors = true
             freeCompilerArgs += listOf("-opt-in=kotlin.RequiresOptIn", "-Xinline-classes")
-        }
-    }
-}
-
-sourceSets {
-    main {
-        java {
-            srcDirs("build/generated/source/proto/main/grpc")
-            srcDirs("build/generated/source/proto/main/java")
         }
     }
 }
