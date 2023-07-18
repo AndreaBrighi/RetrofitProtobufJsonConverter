@@ -21,7 +21,7 @@ grpc = [ "grpc-stub", "grpc-protobuf" ]
 protobuf = [ "protobuf-java", "protobuf-java-util", "protobuf-kotlin" ]
 
 [plugins]
-protobuf = { id = "com.google.protobuf", version = "0.9.3" }
+protobuf = { id = "com.google.protobuf", version = "0.9.4" }
 dokka = { id = "org.jetbrains.dokka", version.ref = "dokka" }
 gitSemVer = { id = "org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin", version.ref = "gitSemVer" }
 kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
