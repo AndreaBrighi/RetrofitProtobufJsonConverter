@@ -1,3 +1,16 @@
+## [1.0.3](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.2...1.0.3) (2023-07-18)
+
+
+### Dependency updates
+
+* **deps:** update plugin multijvmtesting to v0.5.4 ([33c06d3](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/33c06d337fc874bd45592c0e0a161ff8c7f8237b))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v1.1.9 ([e6da3e1](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/e6da3e1de6912deae50909b92846d1a03b820a22))
+
+
+### Bug Fixes
+
+* **deps:** update artifact ([3ae63d3](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/3ae63d361c9f20c02fc01b7a5016c4f664db41f7))
+
 ## [1.0.2](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.1...1.0.2) (2023-07-18)
 
 
