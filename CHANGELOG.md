@@ -1,3 +1,17 @@
+## [1.0.2](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.1...1.0.2) (2023-07-18)
+
+
+### Dependency updates
+
+* **deps:** update dependency gradle to v8.2.1 ([93d7be0](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/93d7be02efd0da75a59b8a76248da7ff64c92036))
+* **deps:** update plugin kotlin-qa to v0.47.1 ([6beee09](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/6beee09361861c2d6d6b77d53d932bb25d10f2ef))
+* **deps:** update plugin org.gradle.toolchains.foojay-resolver-convention to v0.6.0 ([6b6015b](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/6b6015b4fbbd268299d5d7291385e5b57ebd958c))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.2 ([88e2287](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/88e22874ff73e30f18ab543235cbecb789a8c4dd))
+
 ## [1.0.1](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.0...1.0.1) (2023-07-18)
 
 
