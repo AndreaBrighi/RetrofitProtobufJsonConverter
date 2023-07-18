@@ -60,7 +60,7 @@ dependencies {
     implementation(kotlin("reflect"))
     testImplementation(gradleTestKit())
     testImplementation(libs.bundles.kotlin.testing)
-    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.2")
 }
 
 configurations.all {
