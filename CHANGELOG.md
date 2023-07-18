@@ -1,3 +1,36 @@
+## [1.0.1](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.0...1.0.1) (2023-07-18)
+
+
+### Dependency updates
+
+* **deps:** update all dependencies ([79cefa5](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/79cefa5da16bd5b9c47067e6e5ccae96626f8726))
+* **deps:** update all dependencies ([29e0fda](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/29e0fda7bd3e48168503e60ca7490189518493fd))
+* **deps:** update dependency org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin to v1.1.10 ([cb9277d](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/cb9277df0526a1aa5fa40081147cd2d234d10a12))
+* **deps:** update dependency org.jetbrains.dokka to v1.8.20 ([f20ee62](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/f20ee62113ba2bb8e74bf3a7a4c4d3575c1edfa4))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.41 ([53ae6ec](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/53ae6ec81e16b0c5a271ea040a019241c3b581dd))
+* **deps:** update plugin com.gradle.enterprise to v3.13.4 ([5474adb](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/5474adbd7be6d85cf712d49a6e413969ab303f01))
+* **deps:** update plugin protobuf to v0.9.4 ([3f9e502](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/3f9e5027a0b1c2ca086208b9098858c54ee00fb1))
+* **deps:** update plugin publishoncentral to v5.0.10 ([1aa1376](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/1aa1376bb554eb260ada6892c4e5db227f60f08b))
+
+
+### Bug Fixes
+
+* **deps:** update protobuf to v3.23.4 ([0e2c638](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/0e2c638c2e33fb65c6b2b138de76bd5fe9ec33e2))
+
+
+### Build and continuous integration
+
+* change renovate configuration ([49170c9](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/49170c96c7870f59e7f5d5579d10348e2e547471))
+
+
+### General maintenance
+
+* apply new code style ([e71a893](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/e71a893019fbb60e5c44ddb3c8b0497376ebb9a3))
+* In README add badge ([e41b232](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/e41b2320fab86a654e3bf10484eb38ed9fa93cbb))
+* **renovate:** add schedule ([6af230b](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/6af230b113363d38ac5ef8c11fd9c945ec6b9514))
+* **renovate:** update renovate.json ([c0816fd](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/c0816fd43ff2438ba8067745ae7b03f40bdd7ac5))
+* update README ([148399e](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/148399eae61b4bd81132884238b298ec0ff5a723))
+
 ## 1.0.0 (2023-04-23)
 
 
