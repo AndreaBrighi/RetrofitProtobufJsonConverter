@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.3...1.0.4) (2023-07-18)
+
+
+### Bug Fixes
+
+* **deps:** update grpc to v1.56.1 ([0b0607a](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/0b0607a39fea3a980d70afd526f1879a3a71c0f6))
+
 ## [1.0.3](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.2...1.0.3) (2023-07-18)
 
 
