@@ -1,3 +1,24 @@
+## [1.0.5](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.4...1.0.5) (2023-07-30)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.43 ([03d35b5](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/03d35b5f0cc92f44f1cefdd4769f23cedf694c7e))
+* **deps:** update node.js to 18.17 ([bdae822](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/bdae822cdf08fbcc689a12f78247a6c0ac24c864))
+* **deps:** update plugin com.gradle.enterprise to v3.14 ([706ce95](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/706ce9586c2d633eccacd5c18f0053f3839b8daa))
+* **deps:** update plugin com.gradle.enterprise to v3.14.1 ([08bf407](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/08bf4079d06a7101d60ad7304303f82d45d1459e))
+* **deps:** update plugin kotlin-qa to v0.48.0 ([ad7c4a7](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/ad7c4a79d70bcd7d5215ee7ab8b838e1266860f7))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.3 ([8ff8c32](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/8ff8c320f5fbc9b152b318624686e258ef5f0469))
+
+
+### Build and continuous integration
+
+* remove unused source configuration ([73b9a9a](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/73b9a9a90b7734c2b0ceb2f243315a67b933e51c))
+
 ## [1.0.4](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.3...1.0.4) (2023-07-18)
 
 
