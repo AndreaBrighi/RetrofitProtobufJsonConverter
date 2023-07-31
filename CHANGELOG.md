@@ -1,3 +1,15 @@
+## [1.0.6](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.5...1.0.6) (2023-07-31)
+
+
+### Bug Fixes
+
+* **deps:** update grpc to v1.57.0 ([07b9450](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/07b9450fdc0ce4faaa9051f0d705232a50a627fc))
+
+
+### Build and continuous integration
+
+* use catalog version in build configuration ([44d75a6](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/44d75a67f670c1726025ebb79fc4d5590e295147))
+
 ## [1.0.5](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.4...1.0.5) (2023-07-30)
 
 
