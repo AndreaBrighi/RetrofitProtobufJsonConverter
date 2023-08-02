@@ -1,3 +1,15 @@
+## [1.0.7](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.6...1.0.7) (2023-08-02)
+
+
+### Dependency updates
+
+* **deps:** update dependency org.jetbrains.kotlin.jvm to v1.9.0 ([1eb57b4](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/1eb57b4bcb85cf9ccc334a64ac035879854db537))
+
+
+### Bug Fixes
+
+* **deps:** update grpc to v1.57.1 ([a64e940](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/a64e940343f69b5206fdbab135ea5680a34010e3))
+
 ## [1.0.6](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.5...1.0.6) (2023-07-31)
 
 
