@@ -1,3 +1,15 @@
+## [1.0.8](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.7...1.0.8) (2023-08-10)
+
+
+### Dependency updates
+
+* **deps:** update plugin kotlin-qa to v0.49.0 ([a781457](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/a781457b211c4f1e1faf79f6a9cb11c4d6aa9d7f))
+
+
+### Bug Fixes
+
+* **deps:** update protobuf to v3.24.0 ([20a4a03](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/20a4a03d136a782d6f570c435532ccd3a16fa238))
+
 ## [1.0.7](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.6...1.0.7) (2023-08-02)
 
 
