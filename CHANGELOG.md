@@ -1,3 +1,18 @@
+## [1.0.9](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.8...1.0.9) (2023-08-19)
+
+
+### Dependency updates
+
+* **deps:** update dependency gradle to v8.3 ([15caa43](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/15caa436a93c059818574d16c698324364eb6bb5))
+* **deps:** update plugin org.gradle.toolchains.foojay-resolver-convention to v0.7.0 ([cc368a5](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/cc368a57647d99d05e1e1600b84645ae484b2788))
+* **deps:** update plugin publishoncentral to v5.0.11 ([5cfd2ff](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/5cfd2ffcafb7d14fe29e2bdfa4d7fda3880ceaca))
+
+
+### Bug Fixes
+
+* **deps:** update grpc to v1.57.2 ([013d377](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/013d37731209ad6ec63d6350816a2098c4077406))
+* **deps:** update protobuf to v3.24.1 ([27934ce](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/27934cec64436a08a94f4ed40fd914ada13138c5))
+
 ## [1.0.8](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.7...1.0.8) (2023-08-10)
 
 
