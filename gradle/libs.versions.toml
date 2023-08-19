@@ -3,7 +3,7 @@ dokka = "1.8.20"
 kotlin = "1.9.0"
 kotest = "5.6.2"
 gitSemVer = "1.1.10"
-grpc = "1.57.1"
+grpc = "1.57.2"
 protobuf = "3.24.0"
 
 [libraries]
