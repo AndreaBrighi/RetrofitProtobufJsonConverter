@@ -1,3 +1,16 @@
+## [1.0.10](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.9...1.0.10) (2023-08-26)
+
+
+### Dependency updates
+
+* **deps:** update dependency org.jetbrains.kotlin.jvm to v1.9.10 ([9834a34](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/9834a34d73f55655c7d763bd770e79ffc6787e5b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.46 ([160bc7d](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/160bc7d2f869cf73233dc39d5f2f798796bb5329))
+
+
+### Bug Fixes
+
+* **deps:** update protobuf to v3.24.2 ([952c112](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/952c112212107339b779e297a8f0a95d3adad192))
+
 ## [1.0.9](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.8...1.0.9) (2023-08-19)
 
 
