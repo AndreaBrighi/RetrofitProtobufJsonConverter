@@ -1,3 +1,19 @@
+## [1.0.12](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.11...1.0.12) (2023-09-18)
+
+
+### Dependency updates
+
+* **deps:** update actions/checkout action to v4 ([436b0b1](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/436b0b13a5fd5b586946023e33ebbb49067684db))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.56 ([f5e545d](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/f5e545d370bfe7b74b8ce7821726801c41c715c8))
+* **deps:** update plugin com.gradle.enterprise to v3.15 ([d734d2f](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/d734d2f75e43d8cd556c440900a5717df7d9ab5d))
+* **deps:** update plugin publishoncentral to v5.0.14 ([18ec162](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/18ec16252c9daf8a2e4198f431a5e6bdad692d2c))
+
+
+### Bug Fixes
+
+* **deps:** update grpc to v1.58.0 ([b545685](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/b5456852f18d783b0566742c0a24f6dbdfa6d3af))
+* **deps:** update protobuf to v3.24.3 ([a5c1be7](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/a5c1be757b9f2a15bce5a53e569e418658a07beb))
+
 ## [1.0.11](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.10...1.0.11) (2023-09-06)
 
 
