@@ -1,3 +1,19 @@
+## [1.0.14](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.13...1.0.14) (2023-11-30)
+
+
+### Dependency updates
+
+* **deps:** update actions/setup-java action to v4 ([996fe9a](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/996fe9a24c69a84ce1ea75d43dfa4196aed44436))
+* **deps:** update dependency gradle to v8.5 ([99870dc](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/99870dc34641054918650b1ba331637bf5c8aac2))
+* **deps:** update dependency org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin to v2.0.4 ([b47736f](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/b47736f8e319614cb6ccd4681ce5eab9d9abaac6))
+* **deps:** update plugin kotlin-qa to v0.55.2 ([c2ce46b](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/c2ce46bc0ea90d63ad27a85e31b300a852eb44f4))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v1.1.16 ([fc41d79](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/fc41d792a19d488bdab526e1835912944b01ff77))
+
+
+### Bug Fixes
+
+* **deps:** update grpc to v1.59.1 ([55321c4](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/55321c40656608e9595d5e74b9184853f84bf39a))
+
 ## [1.0.13](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.12...1.0.13) (2023-11-27)
 
 
