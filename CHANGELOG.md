@@ -1,3 +1,17 @@
+## [1.0.15](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.14...1.0.15) (2023-12-11)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.82 ([471f2e4](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/471f2e4a017c5aee333a1423f567a01d6ab402ee))
+* **deps:** update plugin com.gradle.enterprise to v3.16 ([532ab20](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/532ab2016a3540bda03c407b9100b899f0e07a3f))
+* **deps:** update plugin kotlin-qa to v0.56.0 ([ff4cb14](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/ff4cb14cf60b2250eb566f9cff47f0a3b639334f))
+
+
+### Bug Fixes
+
+* **deps:** update grpc to v1.60.0 ([9ed2c0e](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/9ed2c0e99f89eabd7be466cee92e4eac2ee72dcc))
+
 ## [1.0.14](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.13...1.0.14) (2023-11-30)
 
 
