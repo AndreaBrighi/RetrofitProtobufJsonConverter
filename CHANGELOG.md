@@ -1,3 +1,23 @@
+## [1.0.16](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.15...1.0.16) (2024-01-05)
+
+
+### Dependency updates
+
+* **deps:** update dependency org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin to v2.0.5 ([ee0780b](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/ee0780b1dff169a5f67fae26ab6b6f570b4638b2))
+* **deps:** update dependency org.jetbrains.kotlin.jvm to v1.9.22 ([df77979](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/df7797989329129b2ecc475618a6512fe461da80))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.84 ([dc11acc](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/dc11accc0b06d8e0890c365e97d39e68a403d4be))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.85 ([3895332](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/3895332bb8a2d66c1f22a76287c36ae9fa606ea4))
+* **deps:** update plugin com.gradle.enterprise to v3.16.1 ([a67a0e7](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/a67a0e7ed57658aa3ff25a3c4a4d3caac1d05cb6))
+* **deps:** update plugin kotlin-qa to v0.57.0 ([2ce9b98](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/2ce9b98f1f8ec52107ced6c131ab7e001d189929))
+* **deps:** update plugin kotlin-qa to v0.57.1 ([da084bd](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/da084bd09a0ed3e57e603276736cd9cfd8f366ad))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v1.1.18 ([6545b55](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/6545b55bf0f143753074bb0959e75c3132788be2))
+* **deps:** update plugin publishoncentral to v5.0.22 ([55c4b38](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/55c4b387cd83eb8467c651d0849808804e84dd8d))
+
+
+### Bug Fixes
+
+* **deps:** update grpc to v1.60.1 ([fdc53b9](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/fdc53b9ba7e0e5db38c1eb489193b9304dda93db))
+
 ## [1.0.15](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.14...1.0.15) (2023-12-11)
 
 
