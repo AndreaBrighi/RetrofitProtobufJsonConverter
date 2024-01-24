@@ -1,3 +1,20 @@
+## [1.0.17](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.16...1.0.17) (2024-01-24)
+
+
+### Dependency updates
+
+* **deps:** update dependency org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin to v3 ([dc316f5](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/dc316f5317f9ed0ddb84c5a7fc225f0b15687df1))
+* **deps:** update node.js to 20.11 ([bd07e29](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/bd07e297d613ba44539110ea996ca734f4b0ea62))
+* **deps:** update plugin kotlin-qa to v0.58.0 ([0ad0c0e](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/0ad0c0e33df39773af3cb5ad6c8d0e01a8ae7705))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2 ([73322d6](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/73322d6542872d39e18d9a1701cd6990a4d2db40))
+* **deps:** update plugin org.gradle.toolchains.foojay-resolver-convention to v0.8.0 ([5e185bc](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/5e185bc2cdf006bb4f56669e56164fdfbb941c94))
+
+
+### Bug Fixes
+
+* **deps:** update grpc-java monorepo to v1.61.0 ([b8d7cf4](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/b8d7cf484ba01aae81c45ba5678cc2ce8218342b))
+* **deps:** update protobuf to v3.25.2 ([c00df2a](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/c00df2ae983d425fd9036104410f16d74656b31a))
+
 ## [1.0.16](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.15...1.0.16) (2024-01-05)
 
 
