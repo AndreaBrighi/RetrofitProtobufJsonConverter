@@ -1,3 +1,17 @@
+## [1.0.18](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.17...1.0.18) (2024-02-02)
+
+
+### Dependency updates
+
+* **deps:** update dependency gradle to v8.6 ([c39d631](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/c39d6312c7377d2978a0f7ecc943a4886ebfb07b))
+* **deps:** update plugin com.gradle.enterprise to v3.16.2 ([7282dc9](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/7282dc94ac10e103c4440f19c75e096ee09d4601))
+* **deps:** update plugin kotlin-qa to v0.59.0 ([e3c1cca](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/e3c1ccaad6071fd3e235954557c0d72e27a30775))
+
+
+### Bug Fixes
+
+* **deps:** update grpc-java monorepo to v1.61.1 ([0d30f66](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/0d30f66be340945ee30303e6d3370898ed402378))
+
 ## [1.0.17](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.16...1.0.17) (2024-01-24)
 
 
