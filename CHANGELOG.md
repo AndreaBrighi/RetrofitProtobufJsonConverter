@@ -1,3 +1,20 @@
+## [1.0.20](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.19...1.0.20) (2024-03-13)
+
+
+### Dependency updates
+
+* **deps:** update dependency org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin to v3.1.3 ([136e0f7](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/136e0f79c4cfb67f8d9de3f9de8732e85951df96))
+* **deps:** update dependency org.jetbrains.dokka to v1.9.20 ([5c7cdce](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/5c7cdcea4b197dc89bcb8d170ed4a3a86320901d))
+* **deps:** update dependency org.jetbrains.kotlin.jvm to v1.9.23 ([18f1ffb](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/18f1ffb55ae7e9a3d0bb44916f2c02a1c380c3cd))
+* **deps:** update plugin kotlin-qa to v0.60.3 ([2708276](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/270827626139cad80bb3bf84d7251271f8eb7460))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.3 ([4885ab7](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/4885ab7fd9f28c708612662849a9935db22e56b6))
+* **deps:** update plugin publishoncentral to v5.0.25 ([c5d4a53](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/c5d4a53bc2f5ac7fc1113a83b82d120e7b479f57))
+
+
+### Bug Fixes
+
+* **deps:** update grpc-java monorepo to v1.62.2 ([f092090](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/f0920907c3cb06b8c092967466cf02d0628ffc80))
+
 ## [1.0.19](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.18...1.0.19) (2024-02-20)
 
 
