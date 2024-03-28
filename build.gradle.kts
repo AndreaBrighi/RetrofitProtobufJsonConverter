@@ -54,7 +54,7 @@ multiJvm {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
-    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:retrofit:2.11.0")
     implementation(libs.bundles.protobuf)
     implementation(libs.bundles.grpc)
     implementation(kotlin("reflect"))
