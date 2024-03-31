@@ -1,3 +1,21 @@
+## [1.0.21](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.20...1.0.21) (2024-03-31)
+
+
+### Dependency updates
+
+* **deps:** update dependency gradle to v8.7 ([6e5474f](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/6e5474ff93815cffbb9469f4251a9af83802f98a))
+* **deps:** update dependency org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin to v3.1.4 ([bc30030](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/bc30030f2594535b5ff856b53b6f6927484caee1))
+* **deps:** update node.js to 20.12 ([c5c15c0](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/c5c15c0ca2adbe28a7533712c0514b52cb7bb315))
+* **deps:** update plugin kotlin-qa to v0.61.0 ([a105b87](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/a105b87ebd2afb6ee86ec8742917a515e174ce5c))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.4 ([1ba256a](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/1ba256ada5b4294d1f83e611406201fbb685ea5f))
+* **deps:** update plugin publishoncentral to v5.0.26 ([fb727b4](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/fb727b47f3dde477f43260ec15fca5e4d90339e8))
+* **deps:** update plugin tasktree to v3 ([8ecec95](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/8ecec95f77db6d0bc367b9775f54797b5d8e6ec2))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.squareup.retrofit2:retrofit to v2.11.0 ([cc0a7d1](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/cc0a7d1a102ee4bca3e1e85651a3bb3aa2afb6a9))
+
 ## [1.0.20](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.19...1.0.20) (2024-03-13)
 
 
