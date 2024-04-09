@@ -1,3 +1,15 @@
+## [1.0.23](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.22...1.0.23) (2024-04-09)
+
+
+### Dependency updates
+
+* **deps:** update plugin com.gradle.enterprise to v3.17 ([1a41328](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/1a413282e5ed2fcab7018d1dd09c95720d5ca8d4))
+
+
+### Bug Fixes
+
+* **deps:** update grpc-java monorepo to v1.63.0 ([4b786da](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/4b786da8d32408007f7e5ca9dcf2465e88c30b49))
+
 ## [1.0.22](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.21...1.0.22) (2024-04-06)
 
 
