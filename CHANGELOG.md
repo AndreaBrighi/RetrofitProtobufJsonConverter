@@ -1,3 +1,29 @@
+## [1.0.24](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.23...1.0.24) (2024-05-11)
+
+
+### Dependency updates
+
+* **deps:** update dependency org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin to v3.1.5 ([87695d1](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/87695d14088dac33dcdeffaa2f428311ccd4d53b))
+* **deps:** update dependency org.jetbrains.kotlin.jvm to v1.9.24 ([046cdb9](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/046cdb9c136454732a793d70c2b1d0ce483c362f))
+* **deps:** update node.js to 20.13 ([8d3deea](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/8d3deea5871cae25bc5da520785ccbee1bebda26))
+* **deps:** update plugin com.gradle.enterprise to v3.17.2 ([3887513](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/388751385293fee2b930fd13aa1dec57e7eaf8db))
+* **deps:** update plugin com.gradle.enterprise to v3.17.3 ([3742170](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/3742170285cd2db205df0c999dc21633203aae68))
+* **deps:** update plugin kotlin-qa to v0.62.0 ([277e88d](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/277e88d3192cae4ec4b897620c190cfbfdf9ecbb))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.5 ([1ce23ca](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/1ce23caac4fa16b25efc78c0080a6af282bfea85))
+* **deps:** update plugin publishoncentral to v5.1.0 ([ac7d4f9](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/ac7d4f9c641751a82d5b9c1e0e080d935b48e6fc))
+* **deps:** update plugin publishoncentral to v5.1.1 ([bb6a59e](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/bb6a59e276f5946086a401e0c2e372f1d79acc83))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.8.1 ([08aa68a](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/08aa68a6cf291c6f8f2a673e850df149800aa91c))
+
+
+### Build and continuous integration
+
+* add distribution: 'temurin' and remove java 8 and 16 from test ([788955c](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/788955ca4d229858015d2f323b2f4a9bd5c36938))
+* change java distribution ([07db96e](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/07db96ea9f964f33057bfad5aabe3336d143437a))
+
 ## [1.0.23](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.22...1.0.23) (2024-04-09)
 
 
