@@ -1,3 +1,10 @@
+## [1.0.25](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.24...1.0.25) (2024-05-11)
+
+
+### Bug Fixes
+
+* **deps:** update kotest to v5.9.0 ([c58b194](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/commit/c58b194b98ffb57e8d9d45c9fc762f0a73d09663))
+
 ## [1.0.24](https://github.com/AndreaBrighi/RetrofitProtobufJsonConverter/compare/1.0.23...1.0.24) (2024-05-11)
 
 
